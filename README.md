@@ -10,5 +10,6 @@ Esta aplicación web interactiva permite explorar y analizar datos de vehículos
 - **Interfaz intuitiva**: Navegación fácil y visualizaciones claras
 
 ## Cómo usar la aplicación
-1. Utiliza las casillas de verificación para mostrar diferentes gráficos
-2. Explora los datos de vehículos usados de forma interactiva
+1. Abrir el siguiente enlace: https://project-sprint-7-dovm.onrender.com
+2. Utiliza las casillas de verificación para mostrar diferentes gráficos
+3. Explora los datos de vehículos usados de forma interactiva
